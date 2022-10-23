@@ -75,3 +75,22 @@ Since the technology field continues to grow every day, additional experience an
      + MCV4U
      + Two of: SBI4U, SCH4U, SPH4U, SES4U, ICS4U, TEJ4M
      + Supplementary Application to be completed
++ First Year Courses:
+    + Introduction to Computational Thinking
+    + Introduction to Programming
+    + Practice and Experience: Development Basics
+    + Practice and Experience: Intro to Software Design Using Web Programming
+    + Discrete Math for Comp Sci
+    + 3 courses in calculus and linear algebra
+    + 2 open electives
++ Degree Completion Requirements:
+    + 24 required units + 6 elective units for the first year
+    + In this program, 30 units can be taken as open elective courses, meaning you can easily complete a minor alongside your degree.
+    + Eighteen units of technical electives must be taken in upper years and can be fulfilled with courses such as Machine Learning or Software Entrepreneurship.
+    + Computer science students complete a Capstone Project course to capoff their experiential learning in their final year
+(McMaster University; Ontario Universities Info)
+ 
+ 
+| McMaster University:       |  Computer Science I
+| :-------------------------:|:-------------------------:
+| ![](mcmaster%20uni.jpg )    |  ![](mcmaster%20computer%20sci%20program.jpg)
