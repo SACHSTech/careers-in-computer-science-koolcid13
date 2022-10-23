@@ -62,7 +62,7 @@ Since the technology field continues to grow every day, additional experience an
 *****
 <br>
 
-### <u> Program: Computer Science I at McMaster University </U>
+### <u> Program: Computer Science I at McMaster University </u>
 
 ####
 + Degree: Bachelor of Applied Science, BASc
@@ -91,6 +91,21 @@ Since the technology field continues to grow every day, additional experience an
 (McMaster University; Ontario Universities Info)
  
  
-| McMaster University:       |  Computer Science I
+| McMaster University        |  Computer Science I
 | :-------------------------:|:-------------------------:
-| ![](mcmaster%20uni.jpg )    |  ![](mcmaster%20computer%20sci%20program.jpg)
+| ![](mcmaster%20uni.jpg )   |  ![](mcmaster%20computer%20sci%20program.jpg)
+
+## **Real Jobs**
+
+*****
+<br>
+
+### <u> *Entry-Level Position* </u>
+
+
+| Job Title: Failure Analyst     |  ![](failure%20analysis.jpg)
+| -------------------------------|-------------------------
+| Salary                         |  $47,000-$59,000 a year
+| City                           |  Victoria, BC
+| Job Description                |  **Description** <br> The Plant Quality Team is looking for an enthusiastic and motivated Failure Analyst to play a role in the analysis of failures, whether a component or product failed in the field, or a failure occurred during the production/test process. <br> He/She would make recommendations for product improvements and process changes based on your expertise, as well manage and coordinate all incoming product changes in the plant. <br> This position will include a high level of interaction with other groups such as Production, Manufacturing Engineering, Design and Continuous Engineering, Offer Quality, and Technical Support. <br> **Main responsibilities** <br> - Collect and analyze data to determine the cause of a failure for units returned from the field or in the production process and ensure accurate failure data is entered into the appropriate database for trending. <br> - Operate various test and measurement equipment to troubleshoot and isolate faults. <br> - Conduct customer requested failure analysis investigations and generate appropriate technical reports. <br> - Provide support and expertise when necessary for customer complaints and provide technical guidance and be an onsite resource for production <br> - Drive improvements based on findings, using appropriate tools like FMEA, PCP, etc. <br> - Work with Design Engineering to coordinate and manage product changes in the plant
+| Additional Skills/Experience   |  + Have an Electrical Engineering (or equivalent) degree. <br> + 1-2 years of experience - Fresh graduates are welcome to apply <br> + Good project management and problem solving skills. <br> + Have knowledge of electronic circuits both analog and digital <br> + Customer focused and have the ability to communicate sensitive product failure information effectively. <br> + Have good written and verbal communication, ability to prepare complex written reports, business correspondence, and work instructions. (Workopolis)
