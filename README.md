@@ -13,7 +13,7 @@
 
 ### <u> Job Description: </U>
 
-#### A data analyst collects and stores data on company statistics. Using technical tools and analytical thinking, they process data according to the need of the institution they are working for in order to help them make better decisions for their business. (BetterTeam) Different types of data analysts are medical and health care, market research, business intelligence, operations research, and intelligence analysts. (Simplilearn)
+#### A data analyst collects and stores data on company statistics. Using technical tools and analytical thinking, they process data according to the need of the institution they are working for to help them make better decisions for their business. (BetterTeam) Different types of data analysts are medical and health care, market research, business intelligence, operations research, and intelligence analysts. (Simplilearn)
 
 <br>
 
@@ -32,3 +32,13 @@
 - Working with programmers, engineers, and management heads to identify process improvement opportunities, propose system modifications, and devise data governance strategies. 
 - Preparing final analysis reports for the stakeholders to understand the data-analysis steps, enabling them to take important decisions based on various facts and trends. 
 (Simplilearn)
+
+<p align="center">
+  <img width="460" height="300" src="becoming%20a%20data%20analyst.png">
+</p>
+
+### <u> Required Education: </U>
+
+#### A bachelor's degree, preferably in computer science in mathematics, statistics, or computer science is usually a requirement. Sometimes completion of a College program is also accepted by recruitment teams. Computer programming experience with languages such as Python, R, and SQL is often required as well. (Government of Canada)
+#### Since the technology field continues to grow every day, additional experience and certifications can be beneficial for job search purposes and winning resumes. These certificates are offered in a variety; from introductory data analytics courses to specialized programs in machine learning and Python all the way up to MBA programs with a data analytics focus. (Morales)
+
