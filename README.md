@@ -42,3 +42,16 @@
 #### A bachelor's degree, preferably in computer science in mathematics, statistics, or computer science is usually a requirement. Sometimes completion of a College program is also accepted by recruitment teams. Computer programming experience with languages such as Python, R, and SQL is often required as well. (Government of Canada)
 #### Since the technology field continues to grow every day, additional experience and certifications can be beneficial for job search purposes and winning resumes. These certificates are offered in a variety; from introductory data analytics courses to specialized programs in machine learning and Python all the way up to MBA programs with a data analytics focus. (Morales)
 
+<br>
+
+### <u> Technical and Non-technical Skills: </U>
+
+#### 1. Data cleaning and preparation
+#### 2. Data analysis and exploration
+#### 3. Statistical knowledge
+#### 4. Creating data visualizations
+#### 5. Creating dashboards and reports
+#### 6. Writing and communication
+#### 7. Domain knowledge
+#### 8. Problem solving
+#### (Grupman)
