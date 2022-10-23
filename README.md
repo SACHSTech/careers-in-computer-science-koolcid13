@@ -134,3 +134,13 @@ Since the technology field continues to grow every day, additional experience an
 | Job Description                           |  **Responsibilities** <br> - Generate actionable insights from data and produce analysis and reporting to support business needs. <br> - Work closely with partners from various functions to understand business objectives and context, translate business requirements to technical specifications, design and execute data solutions. <br> **Essential skills** <br> - Proficient and extensive hands-on experience in SQL, Tableau and Python. <br> - Experience in big data tools such as Hadoop and Hive. <br> - 5+ years relevant work experience. <br> - Strong communication, relationship management and project management skills. <br> **Skills considered assets** <br> - Knowledge in banking and finance products. <br> - Master's degree in quantitative discipline, finance or business. <br> - Pyspark. <br> - Experience in Azure cloud environment.
 | Additional Skills/Experience              |  **Must Have:** <br> 1- SQL – 5+ years <br> 2- Tableau – 3 years <br> 3- Hadoop or Hive experience – 3 years <br> 4- Python – 3 years <br> 5- Strong communication skills <br> <br> **Nice to Have:** <br> 1- banking experience <br> 2- TD experience <br> 3- Cloud and Pyspark (Indeed)
 
+<br>
+
+### <u>Salary Range: </u>
+#### According to Talent, the average salary of a data analyst in Canada is $68,695 per year, in other words, expressed as $35.23 per hour. Entry-level positions start at as low as $53,054 per year, while most experienced professionals can make up to $94,729 per year. (Talent)
+ 
+ <br>
+
+| RANGE: $53,054-$94,729 per year     |  &nbsp;
+| ------------------------------------|-------------------------
+|![](money%20making%20beard%20guy.jpg)|  ![](money%20making.jpg)
