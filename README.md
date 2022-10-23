@@ -62,7 +62,7 @@ Since the technology field continues to grow every day, additional experience an
 *****
 <br>
 
-### <u> Program: Computer Science I at McMaster University </u>
+### <u> [Program: Computer Science I at McMaster University](https://www.eng.mcmaster.ca/computer-science-1) </u>
 
 ####
 + Degree: Bachelor of Applied Science, BASc
@@ -101,7 +101,7 @@ Since the technology field continues to grow every day, additional experience an
 <br>
 
 ### <u> *Entry-Level Position* </u>
-
+##### **_To visit the actual job posting, click [here](https://workopolis.com/jobsearch/find-jobs?ak=data+analyst+entry+level&l=&job=ih2U66a6Vl2ELYpfpJ3taV-hfgWn5xHnPGnH07PjVkBArpdzT3SVow)_**
 
 | Job Title: Failure Analyst     |  ![](failure%20analysis.jpg)
 | -------------------------------|-------------------------
@@ -113,7 +113,7 @@ Since the technology field continues to grow every day, additional experience an
 <br>
 
 ### <u> *Average-Level Position* </u>
-
+##### **_To visit the actual job posting, click [here](https://ca.indeed.com/jobs?q=dawn+infotek&l=Toronto%2C+ON&vjk=28950535cae2dc2c)_**
 
 | Job Title: Data Analyst (Banking)   | ![](bank%20data%20analyst.jpg)
 | ------------------------------------|-------------------------
@@ -125,6 +125,7 @@ Since the technology field continues to grow every day, additional experience an
 <br>
 
 ### <u> *Senior-Level Position* </u>
+##### **_To visit the actual job posting, click [here](https://ca.indeed.com/jobs?q=business+intelligence+developer&l=Toronto%2C+ON&vjk=d3dd1930402800ef)_**
 
 
 | Job Title: Business Intelligence Developer| ![](business%20intelligence%20analyst.jpg)
@@ -151,19 +152,18 @@ Since the technology field continues to grow every day, additional experience an
 <br>
 
 #### As the data industry is booming in 2022, there are all sorts of ways through which people interested in data analysis can gain experience. These include but are not limited to self-started projects or courses, co-op programs, internship offers, workshops, contests, competitions, or even upping their game in non-technical skills such as project management or leadership skills. Since the data market has been brought to the attention of many, varieties of opportunities are being offered in each of the branches mentioned above. To name a few, based on CareerFoundry, some of the top project-based data analysis courses are:
-- CareerFoundry Data Analytics Program
-- Springboard Data Analytics Career Track 
-- Wharton Business Analytics Online Certificate Program
-- Cloudera Data Analyst Certification
-- BrainStation Data Analytics Certificate
-- Harvard University Business Analytics Course
-- Thinkful Data Analytics Immersion Course
-- General Assembly Data Analytics Course
-- MIT Sloan School of Management Applied Business Analytics Certificate
-As of October 10, 2022, some other opportunities that future or current data analysts can take advantage of are:
-- Introductory courses for aspiring data analysts on databricks.com (databricks)
-- Internship and co-op offer at Appficiency Inc. as a Digital Performance Marketing Analyst - Mississauga, ON (Indeed)
-- Data Analyst Co-op offer by OpenCare for 2023 - Toronto, ON 
+- [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/)
+- [Springboard Data Analytics Career Track ](https://www.springboard.com/courses/data-analytics-career-track/)
+- [Cloudera Data Analyst Certification](https://www.cloudera.com/about/training/courses/data-analyst-training.html?course=data-analyst&loc=online)
+- [BrainStation Data Analytics Certificate](https://brainstation.io/course/online/data-analytics?utm_keyword=data%20analytics%20courses&utm_network=g&utm_matchtype=e&utm_creative=414479179100&utm_target=&utm_placement=&utm_device=c&utm_campaign=7718470978&utm_adgroup=92515064375&utm_source=AdWords&gclid=EAIaIQobChMIpZSJsIPU6AIVx7HtCh1xhQHZEAAYAiAAEgIjAvD_BwE)
+- [Harvard University Business Analytics Course](https://pll.harvard.edu/course/business-analytics?delta=0)
+- [Thinkful Data Analytics Immersion Course](https://www.thinkful.com/bootcamp/data-analytics/)
+- [General Assembly Data Analytics Course](https://generalassemb.ly/education/data-analytics-remote-online)
+- [MIT Sloan School of Management Applied Business Analytics Certificate](https://executive-ed.mit.edu/applied-business-analytics?utm_campaign=B-365D_EU_GG_SE_ABA_Generic_ALWON&utm_content=Data_Analytics&utm_medium=c&utm_source=Google&utm_term=%2Bdata+%2Banalytics+%2Bcertification)
+#### As of October 10, 2022, some other opportunities that future or current data analysts can take advantage of are:
+- [Introductory courses for aspiring data analysts on databricks.com (databricks)](https://www.databricks.com/discover/introduction-to-data-analysis-workshop-series)
+- [Internship and co-op offer at Appficiency Inc. as a Digital Performance Marketing Analyst - Mississauga, ON (Indeed)](https://ca.indeed.com/Data-Analyst-Shadowing-jobs-in-Toronto,-ON?vjk=7eb173f2b82d05ee)
+- [Data Analyst Co-op offer by OpenCare for 2023 - Toronto, ON](https://jobs.lever.co/opencare/71d7a995-c4f8-46cc-9462-3333ba6add00)
 - Yearly data analysis competitions designed and offered by communities such as:
     - Kaggle
     - Codalab
@@ -173,7 +173,8 @@ As of October 10, 2022, some other opportunities that future or current data ana
     - DrivenData
     - InnoCentive
     (Adams)
-Moreover, ideas below provide chances for every person to improve their non-technical skills:
+    <br>*To learn more about competitions around data analysis, click [here.](https://medium.com/codex/top-data-science-competitions-to-watch-out-for-in-2022-4d8dcf062d6a)*
+#### Moreover, ideas below provide chances for every person to improve their non-technical skills:
 - Earning the PMP global certificate of project management, giving room to become better with people, process, and business environments (Project Management Institute)
 - Participating in the Exercising Leadership: Foundational Principles course, offered by Harvard University through edX (edX)
 - Beginning to do more self-induced research, analysis, and evaluation on topics that interest you to engage your critical thinking (UniLodge)
