@@ -70,3 +70,8 @@ Since the technology field continues to grow every day, additional experience an
 + Experiential Learning: Co-op or internship application available at the university after registration
 + Enrollment: 180 (total for OUAC codes MC and MCC)
 + Grade Range: A minimum of 90% is required for consideration. Admission is by selection.
++ Entrance Requirements:
+    + ENG4U
+     + MCV4U
+     + Two of: SBI4U, SCH4U, SPH4U, SES4U, ICS4U, TEJ4M
+     + Supplementary Application to be completed
