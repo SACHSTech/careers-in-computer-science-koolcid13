@@ -144,3 +144,40 @@ Since the technology field continues to grow every day, additional experience an
 | RANGE: $53,054-$94,729 per year     |  &nbsp;
 | ------------------------------------|-------------------------
 |![](money%20making%20beard%20guy.jpg)|  ![](money%20making.jpg)
+
+## **Experiential Learning**
+
+*****
+<br>
+
+#### As the data industry is booming in 2022, there are all sorts of ways through which people interested in data analysis can gain experience. These include but are not limited to self-started projects or courses, co-op programs, internship offers, workshops, contests, competitions, or even upping their game in non-technical skills such as project management or leadership skills. Since the data market has been brought to the attention of many, varieties of opportunities are being offered in each of the branches mentioned above. To name a few, based on CareerFoundry, some of the top project-based data analysis courses are:
+- CareerFoundry Data Analytics Program
+- Springboard Data Analytics Career Track 
+- Wharton Business Analytics Online Certificate Program
+- Cloudera Data Analyst Certification
+- BrainStation Data Analytics Certificate
+- Harvard University Business Analytics Course
+- Thinkful Data Analytics Immersion Course
+- General Assembly Data Analytics Course
+- MIT Sloan School of Management Applied Business Analytics Certificate
+As of October 10, 2022, some other opportunities that future or current data analysts can take advantage of are:
+- Introductory courses for aspiring data analysts on databricks.com (databricks)
+- Internship and co-op offer at Appficiency Inc. as a Digital Performance Marketing Analyst - Mississauga, ON (Indeed)
+- Data Analyst Co-op offer by OpenCare for 2023 - Toronto, ON 
+- Yearly data analysis competitions designed and offered by communities such as:
+    - Kaggle
+    - Codalab
+    - AIcrowd
+    - Bitgrit
+    - CrowdANALYTIX
+    - DrivenData
+    - InnoCentive
+    (Adams)
+Moreover, ideas below provide chances for every person to improve their non-technical skills:
+- Earning the PMP global certificate of project management, giving room to become better with people, process, and business environments (Project Management Institute)
+- Participating in the Exercising Leadership: Foundational Principles course, offered by Harvard University through edX (edX)
+- Beginning to do more self-induced research, analysis, and evaluation on topics that interest you to engage your critical thinking (UniLodge)
+
+<p align="center">
+  <img width="460" height="300" src="certification.png">
+</p>
