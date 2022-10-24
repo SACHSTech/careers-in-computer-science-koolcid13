@@ -165,7 +165,7 @@ A data analyst collects and stores data on company statistics. Using technical t
 #### As of October 10, 2022, some other opportunities that future or current data analysts can take advantage of are:
 - [Introductory courses for aspiring data analysts on databricks.com (databricks)](https://www.databricks.com/discover/introduction-to-data-analysis-workshop-series)
 - [Internship and co-op offer at Appficiency Inc. as a Digital Performance Marketing Analyst - Mississauga, ON (Indeed)](https://ca.indeed.com/Data-Analyst-Shadowing-jobs-in-Toronto,-ON?vjk=7eb173f2b82d05ee)
-- [Data Analyst Co-op offer by OpenCare for 2023 - Toronto, ON](https://jobs.lever.co/opencare/71d7a995-c4f8-46cc-9462-3333ba6add00)
+- [Data Analyst Co-op offer by OpenCare for 2023 - Toronto, ON (OpenCare)](https://jobs.lever.co/opencare/71d7a995-c4f8-46cc-9462-3333ba6add00)
 - Yearly data analysis competitions designed and offered by communities such as:
     - Kaggle
     - Codalab
@@ -189,7 +189,7 @@ A data analyst collects and stores data on company statistics. Using technical t
 
 <br>
 
-### <center> **Works Cited** </center>
+### <p align="center"> **Works Cited** </p>
 <br>
 
 Adams, Lucia. “Top Data Science competitions to watch out for in 2022.” *Medium*, 6 April 2022, https://medium.com/codex/top-data-science-competitions-to-watch-out-for-in-2022-4d8dcf062d6a. Accessed 10 October 2022. <br><br>
@@ -213,5 +213,5 @@ Workopolis. “Data Analyst Job Positions.” *Workopolis*, 2022, https://workop
 
 *****
 
-### <center> **Images Cited** </center>
+### <p align="center"> **Images Cited** </p>
 <br>
