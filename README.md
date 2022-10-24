@@ -55,8 +55,13 @@ A data analyst collects and stores data on company statistics. Using technical t
     5. Creating dashboards and reports
     6. Domain knowledge
 * Non-technical Skills:
-    1. Writing and communication
-    2. Problem solving (Grupman)
+    1. Writing
+    2. Communication
+    3. Problem solving
+    4. Business Sense
+    5. Curiosity
+    6. TeamWork
+    7. Attention to Detail (Grupman)
 <br>
 
 ## **Standard Education**
