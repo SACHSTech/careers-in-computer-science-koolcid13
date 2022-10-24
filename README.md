@@ -13,15 +13,13 @@
 
 ### <ins> Job Description: </ins>
 
-#### A data analyst collects and stores data on company statistics. Using technical tools and analytical thinking, they process data according to the need of the institution they are working for to help them make better decisions for their business. (BetterTeam) Different types of data analysts are medical and health care, market research, business intelligence, operations research, and intelligence analysts. (Simplilearn)
+A data analyst collects and stores data on company statistics. Using technical tools and analytical thinking, they process data according to the need of the institution they are working for to help them make better decisions for their business. (BetterTeam) Different types of data analysts are medical and health care, market research, business intelligence, operations research, and intelligence analysts. (Simplilearn)
 
 <br>
 
 ### <ins> Responsibilities: </ins>
 
-#### According to Simplilearn, data analysts are responsible for:
-####
-- Using automated tools to extract data from primary and secondary sources
+#### According to Simplilearn, data analysts are responsible for: <br> - Using automated tools to extract data from primary and secondary sources
 - Removing corrupted data and fixing coding errors and related problems
 - Developing and maintaining databases, data systems – reorganizing data in a readable format 
 - Performing analysis to assess quality and meaning of data
