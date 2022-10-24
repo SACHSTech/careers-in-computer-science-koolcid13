@@ -215,3 +215,13 @@ Workopolis. “Data Analyst Job Positions.” *Workopolis*, 2022, https://workop
 
 ### <p align="center"> **Images Cited** </p>
 <br>
+Danske Bank. *People Looking at Laptops*. 31 January, 2020. *Danske Bank*, https://job.danskebank.lt/data-analyst-in-transaction-services-2/  <br><br>
+FlatWorld Solutions. *Man Holding Data*. 11 June, 2020. *FlatWorld Solutions*, https://blog.flatworldsolutions.com/why-is-failure-analysis-important/ <br><br>
+GeeksForGeeks. Minimal *Man and Woman Discussing*. 30 September, 2019. *GeeksForGeeks*, https://www.geeksforgeeks.org/how-to-become-a-data-analyst-in-2019-a-complete-guide/ <br><br>
+GrantMe. *McMaster University Entrance Sign*. 12 May, 2022. *GrantMe*, https://grantme.ca/blog-mcmaster-computer-science/ <br><br>
+ITPro Today. *Man Hands Typing*. 23 September, 2022. *ITPro Today*, https://www.itprotoday.com/salary-survey <br><br>
+Learn SQL. *Man Tossing Money Around*. 27 August, 2021. *Learn SQL*, https://learnsql.com/blog/how-much-do-data-analysts-earn/ <br><br>
+LSU Online. *Woman Working on Data*. N/A. *LSU Online*, https://online.lsu.edu/newsroom/articles/how-to-become-data-analys/ <br><br>
+McMaster University. *Man Focusing on Data*. 15 September, 2022. *McMaster University*, https://continuing.mcmaster.ca/programs/tech-data/big-data-programming-and-architecture/ <br><br>
+SLA Consultants India. *Why joining Data Analyst certification should be your top priority after Graduation?*. 24 October, 2018. *SLA Consultants India*, https://www.slaconsultantsindia.com/why-joining-data-analyst-certification-should-be-your-top-priority-after-graduation/ <br><br>
+University of San Diego. *Your Career Guide to This In-Demand, Data-Driven Field*. 28 September, 2021. *University of San Diego Online*, https://onlinedegrees.sandiego.edu/business-intelligence-analyst-career/ <br><br>
