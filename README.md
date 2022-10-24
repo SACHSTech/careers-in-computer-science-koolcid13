@@ -20,6 +20,7 @@
 ### <ins> Responsibilities: </ins>
 
 #### According to Simplilearn, data analysts are responsible for:
+####
 - Using automated tools to extract data from primary and secondary sources
 - Removing corrupted data and fixing coding errors and related problems
 - Developing and maintaining databases, data systems – reorganizing data in a readable format 
@@ -39,8 +40,8 @@
 
 ### <ins> Required Education: </ins>
 
-#### A bachelor's degree, preferably in computer science in mathematics, statistics, or computer science is usually a requirement. Sometimes completion of a College program is also accepted by recruitment teams. Computer programming experience with languages such as Python, R, and SQL is often required as well. (Government of Canada)
-Since the technology field continues to grow every day, additional experience and certifications can be beneficial for job search purposes and winning resumes. These certificates are offered in a variety; from introductory data analytics courses to specialized programs in machine learning and Python all the way up to MBA programs with a data analytics focus. (Morales)
+##### A bachelor's degree, preferably in computer science in mathematics, statistics, or computer science is usually a requirement. Sometimes completion of a College program is also accepted by recruitment teams. Computer programming experience with languages such as Python, R, and SQL is often required as well. (Government of Canada)
+##### Since the technology field continues to grow every day, additional experience and certifications can be beneficial for job search purposes and winning resumes. These certificates are offered in a variety; from introductory data analytics courses to specialized programs in machine learning and Python all the way up to MBA programs with a data analytics focus. (Morales)
 
 <br>
 
