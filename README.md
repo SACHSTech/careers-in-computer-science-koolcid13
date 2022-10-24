@@ -186,3 +186,32 @@ Since the technology field continues to grow every day, additional experience an
 <p align="center">
   <img width="460" height="300" src="certification.png">
 </p>
+
+<br>
+
+### <center> **Works Cited** </center>
+<br>
+
+Adams, Lucia. “Top Data Science competitions to watch out for in 2022.” *Medium*, 6 April 2022, https://medium.com/codex/top-data-science-competitions-to-watch-out-for-in-2022-4d8dcf062d6a. Accessed 10 October 2022. <br><br>
+BetterTeam. “Data Analyst Job Description.” *Betterteam*, 2 December 2020, https://www.betterteam.com/data-analyst-job-description. Accessed 10 October 2022. <br><br>
+databricks. “Introduction to Data Analysis Workshop Series – Databricks.” *Databricks*, 24 August 2020, https://www.databricks.com/discover/introduction-to-data-analysis-workshop-series. Accessed 10 October 2022. <br><br>
+edX. “Exercising Leadership: Foundational Principles.” *edX*, N/A, https://www.edx.org/course/exercising-leadership-foundational-principles. Accessed 10 October 2022. <br><br>
+Government of Canada. “Database Analyst in Canada | Job requirements.” *Job Bank*, 16 August 2022, https://www.jobbank.gc.ca/marketreport/requirements/17873/ca;jsessionid=487BC08556438E73C1AE2FB4A781F8FB.jobsearch75. Accessed 10 October 2022. <br><br>
+Grupman, Celeste. “8 Data Analyst Skills Employers Need to See in 2022.” *Dataquest*, 27 June 2022, https://www.dataquest.io/blog/data-analyst-skills/. Accessed 10 October 2022. <br><br>
+Indeed. “Data Analyst Co-op search.” *Indeed*, 2022, https://ca.indeed.com/Data-Analyst-Shadowing-jobs-in-Toronto,-ON?vjk=7eb173f2b82d05ee. Accessed 10 October 2022. <br><br>
+Indeed. “Data Analyst Job Positions.” *Indeed*, 2022, https://ca.indeed.com/jobs?q=data+analyst&l=Toronto%2C+ON&from=searchOnHP&vjk=fe7268347d0b46fc. Accessed 10 October 2022. <br><br>
+McMaster University. “Computer Science 1 | Faculty of Engineering.” *McMaster Engineering*, N/A, https://www.eng.mcmaster.ca/computer-science-1#About-CS1. Accessed 10 October 2022.<br><br>
+Morales, Steve. “How to Become a Data Analyst.” *CourseCompare*, 27 July 2022, https://www.coursecompare.ca/how-to-become-a-data-analyst/. Accessed 20 October 2022. <br><br>
+Ontario Universities Info. “Computer Science I – OUInfo.” *Ontario Universities' Info*, N/A, https://www.ontariouniversitiesinfo.ca/programs/1251. Accessed 10 October 2022. <br><br>
+OpenCare. “Opencare - Data Analyst Co-op (2023).” *Lever*, N/A, https://jobs.lever.co/opencare/71d7a995-c4f8-46cc-9462-3333ba6add00. Accessed 10 October 2022. <br><br>
+Project Management Institute. “Apply for PMP Certification.” *PMI*, N/A, https://www.pmi.org/certifications/project-management-pmp. Accessed 10 October 2022. <br><br>
+Simplilearn. “Job Description for Data Analyst: Responsibilities and Skills Required.” *Simplilearn*, 30 September 2022, https://www.simplilearn.com/data-analyst-job-description-article. Accessed 10 October 2022. <br><br>
+STEVENS, EMILY. “The 9 Best Data Analytics Certification Programs of 2022.” *CareerFoundry*, 21 September 2022, https://careerfoundry.com/en/blog/data-analytics/best-data-analytics-certification-programs/. Accessed 10 October 2022. <br><br>
+Talent. “Data Analyst Salary in Canada - Average Salary.” *Talent.com*, 2022, https://ca.talent.com/salary?job=data+analyst. Accessed 10 October 2022. <br><br>
+UniLodge. “How to Develop Critical Thinking.” *UniLodge*, 11 September 2019, https://www.unilodge.com.au/blog/how-to-develop-critical-thinking. Accessed 10 October 2022. <br><br>
+Workopolis. “Data Analyst Job Positions.” *Workopolis*, 2022, https://workopolis.com/jobsearch/find-jobs?ak=data+analyst+entry+level&l=&job=ih2U66a6Vl2ELYpfpJ3taV-hfgWn5xHnPGnH07PjVkBArpdzT3SVow. Accessed 10 October 2022. <br><br>
+
+*****
+
+### <center> **Images Cited** </center>
+<br>
