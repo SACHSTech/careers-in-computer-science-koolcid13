@@ -11,7 +11,7 @@
 *****
 <br>
 
-### <u> Job Description: </u>
+### <ins> Job Description: </ins>
 
 #### A data analyst collects and stores data on company statistics. Using technical tools and analytical thinking, they process data according to the need of the institution they are working for to help them make better decisions for their business. (BetterTeam) Different types of data analysts are medical and health care, market research, business intelligence, operations research, and intelligence analysts. (Simplilearn)
 
