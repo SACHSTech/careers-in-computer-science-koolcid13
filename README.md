@@ -215,6 +215,7 @@ Workopolis. “Data Analyst Job Positions.” *Workopolis*, 2022, https://workop
 
 ### <p align="center"> **Images Cited** </p>
 <br>
+
 Danske Bank. *People Looking at Laptops*. 31 January, 2020. *Danske Bank*, https://job.danskebank.lt/data-analyst-in-transaction-services-2/  <br><br>
 FlatWorld Solutions. *Man Holding Data*. 11 June, 2020. *FlatWorld Solutions*, https://blog.flatworldsolutions.com/why-is-failure-analysis-important/ <br><br>
 GeeksForGeeks. Minimal *Man and Woman Discussing*. 30 September, 2019. *GeeksForGeeks*, https://www.geeksforgeeks.org/how-to-become-a-data-analyst-in-2019-a-complete-guide/ <br><br>
