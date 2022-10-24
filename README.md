@@ -46,14 +46,16 @@ Since the technology field continues to grow every day, additional experience an
 
 ### <u> Technical and Non-technical Skills: </u>
 
-1. Data cleaning and preparation
-2. Data analysis and exploration
-3. Statistical knowledge
-4. Creating data visualizations
-5. Creating dashboards and reports
-6. Writing and communication
-7. Domain knowledge
-8. Problem solving
+* Technical Skills:
+    1. Data cleaning and preparation
+    2. Data analysis and exploration
+    3. Statistical knowledge
+    4. Creating data visualizations
+    5. Creating dashboards and reports
+    6. Domain knowledge
+* Non-technical Skills:
+    1. Writing and communication
+    2. Problem solving
 #### (Grupman)
 <br>
 
@@ -175,9 +177,11 @@ Since the technology field continues to grow every day, additional experience an
     (Adams)
     <br>*To learn more about competitions around data analysis, click [here.](https://medium.com/codex/top-data-science-competitions-to-watch-out-for-in-2022-4d8dcf062d6a)*
 #### Moreover, ideas below provide chances for every person to improve their non-technical skills:
-- Earning the PMP global certificate of project management, giving room to become better with people, process, and business environments (Project Management Institute)
-- Participating in the Exercising Leadership: Foundational Principles course, offered by Harvard University through edX (edX)
+- [Earning the PMP global certificate of project management, giving room to become better with people, process, and business environments (Project Management Institute)](https://www.pmi.org/certifications/project-management-pmp) 
+- [Participating in the Exercising Leadership: Foundational Principles course, offered by Harvard University through edX (edX)](https://www.edx.org/course/exercising-leadership-foundational-principles)
 - Beginning to do more self-induced research, analysis, and evaluation on topics that interest you to engage your critical thinking (UniLodge)
+
+   For more suggestions on improving non-technical skills, [check this out.](https://www.unilodge.com.au/blog/how-to-develop-critical-thinking)
 
 <p align="center">
   <img width="460" height="300" src="certification.png">
