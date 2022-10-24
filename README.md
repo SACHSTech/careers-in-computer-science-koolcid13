@@ -17,7 +17,7 @@
 
 <br>
 
-### <u> Responsibilities: </u>
+### <ins> Responsibilities: </ins>
 
 #### According to Simplilearn, data analysts are responsible for:
 - Using automated tools to extract data from primary and secondary sources
@@ -37,14 +37,14 @@
   <img width="460" height="300" src="becoming%20a%20data%20analyst.png">
 </p>
 
-### <u> Required Education: </u>
+### <ins> Required Education: </ins>
 
 #### A bachelor's degree, preferably in computer science in mathematics, statistics, or computer science is usually a requirement. Sometimes completion of a College program is also accepted by recruitment teams. Computer programming experience with languages such as Python, R, and SQL is often required as well. (Government of Canada)
 Since the technology field continues to grow every day, additional experience and certifications can be beneficial for job search purposes and winning resumes. These certificates are offered in a variety; from introductory data analytics courses to specialized programs in machine learning and Python all the way up to MBA programs with a data analytics focus. (Morales)
 
 <br>
 
-### <u> Technical and Non-technical Skills: </u>
+### <ins> Technical and Non-technical Skills: </ins>
 
 * Technical Skills:
     1. Data cleaning and preparation
@@ -64,7 +64,7 @@ Since the technology field continues to grow every day, additional experience an
 *****
 <br>
 
-### <u> [Program: Computer Science I at McMaster University](https://www.eng.mcmaster.ca/computer-science-1) </u>
+### <ins> [Program: Computer Science I at McMaster University](https://www.eng.mcmaster.ca/computer-science-1) </ins>
 
 ####
 + Degree: Bachelor of Applied Science, BASc
@@ -102,7 +102,7 @@ Since the technology field continues to grow every day, additional experience an
 *****
 <br>
 
-### <u> *Entry-Level Position* </u>
+### <ins> *Entry-Level Position* </ins>
 ##### **_To visit the actual job posting, click [here](https://workopolis.com/jobsearch/find-jobs?ak=data+analyst+entry+level&l=&job=ih2U66a6Vl2ELYpfpJ3taV-hfgWn5xHnPGnH07PjVkBArpdzT3SVow)_**
 
 | Job Title: Failure Analyst     |  ![](failure%20analysis.jpg)
@@ -114,7 +114,7 @@ Since the technology field continues to grow every day, additional experience an
 
 <br>
 
-### <u> *Average-Level Position* </u>
+### <ins> *Average-Level Position* </ins>
 ##### **_To visit the actual job posting, click [here](https://ca.indeed.com/jobs?q=dawn+infotek&l=Toronto%2C+ON&vjk=28950535cae2dc2c)_**
 
 | Job Title: Data Analyst (Banking)   | ![](bank%20data%20analyst.jpg)
@@ -126,7 +126,7 @@ Since the technology field continues to grow every day, additional experience an
 
 <br>
 
-### <u> *Senior-Level Position* </u>
+### <ins> *Senior-Level Position* </ins>
 ##### **_To visit the actual job posting, click [here](https://ca.indeed.com/jobs?q=business+intelligence+developer&l=Toronto%2C+ON&vjk=d3dd1930402800ef)_**
 
 
@@ -139,7 +139,7 @@ Since the technology field continues to grow every day, additional experience an
 
 <br>
 
-### <u>Salary Range: </u>
+### <ins> Salary Range: </ins>
 #### According to Talent, the average salary of a data analyst in Canada is $68,695 per year, in other words, expressed as $35.23 per hour. Entry-level positions start at as low as $53,054 per year, while most experienced professionals can make up to $94,729 per year. (Talent)
  
  <br>
